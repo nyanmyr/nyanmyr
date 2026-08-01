@@ -47,7 +47,6 @@ I am currently pursuing a bachelors in Computer Science.
 
 ### 🔭 Currently Working On
 - ⚙️ Nacre Engine
-- 🎮 Katawra's Timing Game
 
 ---
 

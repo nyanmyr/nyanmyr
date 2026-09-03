@@ -25,6 +25,7 @@ While also working on Game Development projects on the side.
 #### **Frameworks & Libraries**
 ![SFML](https://img.shields.io/badge/SFML-8CC63F?style=for-the-badge&logo=sfml&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 #### **Databases & Query Languages**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -41,6 +42,8 @@ While also working on Game Development projects on the side.
 
 ### 🔭 Currently Working On
 - ⚙️ Nacre Engine
+- 🎮 untitled-network-game
+- 🧪 Chemsphere
 
 ---
 

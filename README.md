@@ -41,9 +41,9 @@ While also working on Game Development projects on the side.
 ---
 
 ### 🔭 Currently Working On
-- ⚙️ ![Nacre Engine](https://github.com/nyanmyr/Nacre-Engine)
-- 🎮 ![Prutas](https://github.com/nyanmyr/Prutas)
-- 🧪 ![Chemsphere](https://github.com/nyanmyr/Chemsphere)
+- ⚙️ [Nacre Engine](https://github.com/nyanmyr/Nacre-Engine)
+- 🎮 [Prutas](https://github.com/nyanmyr/Prutas)
+- 🧪 [Chemsphere](https://github.com/nyanmyr/Chemsphere)
 
 ---
 
